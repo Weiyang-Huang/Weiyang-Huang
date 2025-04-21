@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/catherine_mie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="catherine_mie" height="30" width="40" /></a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Catherine_mie)
 
-![LeetCode Stats](https://leetcode-badge.chyroc.cn/?name=Catherine_mie&leetcode_badge_style=Solved/Total-{{.solved_question}}/{{.all_question}}-87CEFA.svg)
 
 </p>
