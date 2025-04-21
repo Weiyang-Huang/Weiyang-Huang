@@ -9,3 +9,4 @@
 <p align="left">
 <a href="https://www.leetcode.com/catherine_mie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="catherine_mie" height="30" width="40" /></a>
 </p>
+[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=Catherine_mie)](https://leetcode.com/Catherine_mie/)
